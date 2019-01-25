@@ -1,2 +1,5 @@
-# this project was done mainly HTML and CSS and some JS
+# my online resume
+
+
+will update this in near future
 
